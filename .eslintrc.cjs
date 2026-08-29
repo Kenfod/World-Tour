@@ -17,5 +17,13 @@ module.exports = {
       { allowConstantExport: true },
     ],
     "react/prop-types": "off", // 👈 I Added this line here to disable React prop-types errors
+    "no-unused-vars": [
+      "error",
+      {
+        argsIgnorePattern: "^_",
+        varsIgnorePattern: "^_",
+        caughtErrorsIgnorePattern: "^_",
+      },
+    ],
   },
 };
