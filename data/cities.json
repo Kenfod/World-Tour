@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,116 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "cityName": "Rennes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-09-03T06:42:26.302Z",
+      "notes": "Hi",
+      "position": {
+        "lat": "48.10019328949257",
+        "lng": "-1.6724559707353717"
+      },
+      "id": "f-Ze3eDyKqA"
+    },
+    {
+      "cityName": "Rennes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-09-03T06:42:26.302Z",
+      "notes": "Hi",
+      "position": {
+        "lat": "48.10019328949257",
+        "lng": "-1.6724559707353717"
+      },
+      "id": "MNbMtHARewA"
+    },
+    {
+      "cityName": "Sant Julia de Loria",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2026-09-03T08:46:38.333Z",
+      "notes": "Shhhh!",
+      "position": {
+        "lat": "42.466012640913405",
+        "lng": "1.5239558146335066"
+      },
+      "id": "gaD2UCV-6QE"
+    },
+    {
+      "cityName": "Sant Julia de Loria",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2026-09-03T08:46:38.333Z",
+      "notes": "Shhhh!",
+      "position": {
+        "lat": "42.466012640913405",
+        "lng": "1.5239558146335066"
+      },
+      "id": "DOZ6_7ta48w"
+    },
+    {
+      "cityName": "Sant Julia de Loria",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2026-09-03T08:46:38.333Z",
+      "notes": "Shhhh!",
+      "position": {
+        "lat": "42.466012640913405",
+        "lng": "1.5239558146335066"
+      },
+      "id": "0xGj_VZXhyM"
+    },
+    {
+      "cityName": "Sant Julia de Loria",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2026-09-03T08:50:52.289Z",
+      "notes": "",
+      "position": {
+        "lat": "42.466012640913405",
+        "lng": "1.5239558146335066"
+      },
+      "id": "HGU7WV9Idi0"
+    },
+    {
+      "cityName": "Sidi Ameur Al Hadi",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2026-09-03T08:59:57.707Z",
+      "notes": "Okay",
+      "position": {
+        "lat": "34.83025476223136",
+        "lng": "-5.796196593963311"
+      },
+      "id": "E2JqKUwY4LA"
+    },
+    {
+      "cityName": "Mollina",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-09-03T09:12:39.775Z",
+      "notes": "Yay",
+      "position": {
+        "lat": "37.15603546137689",
+        "lng": "-4.656742288422136"
+      },
+      "id": "cYyo8K0SEq0"
+    },
+    {
+      "cityName": "Moimenta da Beira",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2026-09-03T09:17:18.302Z",
+      "notes": "",
+      "position": {
+        "lat": "40.977096961961756",
+        "lng": "-7.708779629426896"
+      },
+      "id": "LQcaU7Cv3K4"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
